@@ -74,5 +74,5 @@ waitress-serve --listen=*:5000 --call 'flaskr:create_app'
 
 Each endpoint expects a JSON payload as described in the `dto/` models.
 
-# Notes
+## Notes
 I recommend to use this for educational purposes only since it's not made for more advance biology.
